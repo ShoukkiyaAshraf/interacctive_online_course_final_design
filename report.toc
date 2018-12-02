@@ -1,0 +1,138 @@
+\contentsline {chapter}{\hskip 1em\relax CERTIFICATE}{}
+\contentsline {chapter}{\hskip 1em\relax ACKNOWLEDGEMENT}{i}
+\contentsline {chapter}{\hskip 1em\relax ABSTRACT}{ii}
+\contentsline {chapter}{\hskip 1em\relax LIST OF FIGURES}{vi}
+\contentsline {chapter}{\hskip 1em\relax LIST OF TABLES}{viii}
+\contentsline {chapter}{\hskip 1em\relax LIST OF SYMBOLS AND ABBREVIATIONS}{ix}
+\contentsline {chapter}{\numberline {1}PRODUCT STUDY}{1}
+\contentsline {section}{\numberline {1.1}Google Duplex}{1}
+\contentsline {subsection}{\numberline {1.1.1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1.2}Features }{2}
+\contentsline {subsubsection}{Interface}{3}
+\contentsline {subsection}{\numberline {1.1.3}2011 redesign}{3}
+\contentsline {subsection}{\numberline {1.1.4}2011 redesign}{3}
+\contentsline {subsection}{\numberline {1.1.5}Spam filter}{4}
+\contentsline {subsection}{\numberline {1.1.6}Gmail Labs}{4}
+\contentsline {subsection}{\numberline {1.1.7}Search}{4}
+\contentsline {subsection}{\numberline {1.1.8}Offline app}{5}
+\contentsline {subsection}{\numberline {1.1.9}Google Voice in Gmail chat}{5}
+\contentsline {subsection}{\numberline {1.1.10}Language support}{5}
+\contentsline {subsection}{\numberline {1.1.11}Language input styles}{6}
+\contentsline {subsection}{\numberline {1.1.12}Money transfer and payment options}{6}
+\contentsline {subsection}{\numberline {1.1.13}Platforms}{6}
+\contentsline {subsubsection}{Web browsers}{6}
+\contentsline {subsubsection}{Mobile website}{6}
+\contentsline {subsubsection}{Mobile : Gmail running on Android}{7}
+\contentsline {subsection}{\numberline {1.1.14}Third-party programs}{8}
+\contentsline {subsection}{\numberline {1.1.15}Security}{8}
+\contentsline {subsubsection}{History}{8}
+\contentsline {subsubsection}{Third-party encryption in transit}{9}
+\contentsline {subsubsection}{Two-step verification}{9}
+\contentsline {subsubsection}{24-hour lockdowns}{9}
+\contentsline {subsubsection}{Anti child pornography policy}{10}
+\contentsline {subsection}{\numberline {1.1.16}Gmail API Overview}{10}
+\contentsline {subsubsection}{Typical use cases}{11}
+\contentsline {subsubsection}{How do I find out more?}{11}
+\contentsline {subsubsection}{API overview}{11}
+\contentsline {subsubsection}{Key resource types}{12}
+\contentsline {subsubsection}{Auth and the Gmail API}{13}
+\contentsline {subsubsection}{Scopes}{13}
+\contentsline {subsubsection}{Example use case :}{13}
+\contentsline {subsubsection}{Common uses}{14}
+\contentsline {subsection}{\numberline {1.1.17}Sending Gmail messages}{14}
+\contentsline {subsubsection}{Fetching received emails}{14}
+\contentsline {subsubsection}{Mail change history}{14}
+\contentsline {subsubsection}{Label management}{14}
+\contentsline {subsection}{\numberline {1.1.18}Conclusion}{15}
+\contentsline {section}{\numberline {1.2}Nuviz Helmet}{15}
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{15}
+\contentsline {subsection}{\numberline {1.2.2}Concept}{16}
+\contentsline {subsection}{\numberline {1.2.3}Working}{17}
+\contentsline {subsection}{\numberline {1.2.4}Performance}{17}
+\contentsline {subsection}{\numberline {1.2.5}Design}{17}
+\contentsline {subsubsection}{Transition to Outlook.com}{18}
+\contentsline {subsubsection}{Transition to a new infrastructure}{18}
+\contentsline {subsection}{\numberline {1.2.6}2017 redesign}{19}
+\contentsline {subsection}{\numberline {1.2.7}Features}{19}
+\contentsline {subsubsection}{Advertisement for Outlook.com on the side of a bus}{19}
+\contentsline {subsubsection}{Security and privacy}{20}
+\contentsline {subsubsection}{Active View}{21}
+\contentsline {subsubsection}{Calendar}{22}
+\contentsline {subsubsection}{People}{22}
+\contentsline {subsubsection}{Tasks}{23}
+\contentsline {subsubsection}{Office Online integration}{23}
+\contentsline {subsubsection}{Skype integration}{23}
+\contentsline {subsubsection}{Sweep}{24}
+\contentsline {subsubsection}{Quick views and one-click filters}{24}
+\contentsline {subsection}{\numberline {1.2.8}Aliases}{24}
+\contentsline {subsection}{\numberline {1.2.9}Mobile applications}{24}
+\contentsline {subsection}{\numberline {1.2.10}Mail client access}{25}
+\contentsline {subsection}{\numberline {1.2.11}Controversy}{25}
+\contentsline {subsubsection}{Popularity with spammers}{25}
+\contentsline {subsubsection}{Requests for contact details}{25}
+\contentsline {subsubsection}{US government surveillance}{26}
+\contentsline {subsection}{\numberline {1.2.12}Conclusion}{26}
+\contentsline {section}{\numberline {1.3}iCloud}{26}
+\contentsline {subsection}{\numberline {1.3.1}History}{27}
+\contentsline {subsubsection}{Announcement}{28}
+\contentsline {subsection}{\numberline {1.3.2}Features}{28}
+\contentsline {subsubsection}{Backup and restore}{28}
+\contentsline {subsubsection}{Back to My Mac}{29}
+\contentsline {subsubsection}{Email}{29}
+\contentsline {subsubsection}{Find My Friends}{30}
+\contentsline {subsubsection}{Find My iPhone}{30}
+\contentsline {subsubsection}{iCloud Keychain}{31}
+\contentsline {subsubsection}{iTunes Match}{32}
+\contentsline {subsubsection}{iWork for iCloud}{32}
+\contentsline {subsubsection}{Photo Stream}{33}
+\contentsline {subsubsection}{iCloud Photo Library}{33}
+\contentsline {subsection}{\numberline {1.3.3}Storage}{34}
+\contentsline {subsection}{\numberline {1.3.4}iCloud Drive}{35}
+\contentsline {subsection}{\numberline {1.3.5}System requirements}{35}
+\contentsline {subsection}{\numberline {1.3.6}Criticism}{36}
+\contentsline {subsection}{\numberline {1.3.7}Name dispute}{36}
+\contentsline {subsection}{\numberline {1.3.8}Privacy}{36}
+\contentsline {subsection}{\numberline {1.3.9}Data loss}{37}
+\contentsline {subsection}{\numberline {1.3.10}Conclusion}{37}
+\contentsline {section}{\numberline {1.4}Confrontation}{37}
+\contentsline {subsubsection}{Gmail vs Outlook vs iCloud}{38}
+\contentsline {subsubsection}{Apple vs. Google vs. Microsoft: which company handles your data better?}{38}
+\contentsline {subsubsection}{Gmail}{46}
+\contentsline {subsubsection}{Outlook}{47}
+\contentsline {subsubsection}{iCloud}{48}
+\contentsline {chapter}{\numberline {2}PRODUCT DESIGN}{51}
+\contentsline {section}{\numberline {2.1}Introduction}{51}
+\contentsline {section}{\numberline {2.2} Software Development Life Cycle}{52}
+\contentsline {subsection}{\numberline {2.2.1}Planning and Requirement Analysis }{53}
+\contentsline {subsection}{\numberline {2.2.2}Defining Requirements}{53}
+\contentsline {subsection}{\numberline {2.2.3}Designing the Product Architecture}{53}
+\contentsline {subsection}{\numberline {2.2.4}Building or Developing the Product}{54}
+\contentsline {subsection}{\numberline {2.2.5}Testing the Product}{54}
+\contentsline {subsection}{\numberline {2.2.6}Deployment in the Market and Maintenance}{54}
+\contentsline {section}{\numberline {2.3}SDLC Model}{54}
+\contentsline {section}{\numberline {2.4} Requirement Analysis}{55}
+\contentsline {subsection}{\numberline {2.4.1}Group Discussion }{56}
+\contentsline {subsection}{\numberline {2.4.2}Expert's Review }{57}
+\contentsline {subsubsection}{Benefits:}{57}
+\contentsline {subsection}{\numberline {2.4.3}User Feedback}{57}
+\contentsline {section}{\numberline {2.5}Feasibility Study}{58}
+\contentsline {subsection}{\numberline {2.5.1} Technical Feasibility}{59}
+\contentsline {subsection}{\numberline {2.5.2}Economic Feasibility}{59}
+\contentsline {subsection}{\numberline {2.5.3}Operational Feasibility}{60}
+\contentsline {section}{\numberline {2.6}System Analysis and Designs}{61}
+\contentsline {subsection}{\numberline {2.6.1}Functional Requirements}{61}
+\contentsline {subsubsection}{Hardware requirements}{61}
+\contentsline {subsubsection}{Software requirements}{62}
+\contentsline {subsection}{\numberline {2.6.2}Non-Functional Requirements}{62}
+\contentsline {subsubsection}{Usability:}{62}
+\contentsline {subsubsection}{Performance:}{62}
+\contentsline {subsection}{\numberline {2.6.3}Data Flow Diagram}{63}
+\contentsline {subsubsection}{Types of Data Flow Diagrams :}{64}
+\contentsline {subsubsection}{Symbols used in a standard DFD :}{64}
+\contentsline {subsubsection}{ Block Diagram of Studoob :}{65}
+\contentsline {subsection}{\numberline {2.6.4}Use-Case Diagram}{66}
+\contentsline {subsubsection}{Basic Notations:}{67}
+\contentsline {subsection}{\numberline {2.6.5}User Interface Design}{68}
+\contentsline {subsubsection}{Choosing Interface Elements}{69}
+\contentsline {section}{\numberline {2.7}Conclusion and Future Scope}{73}
+\contentsline {chapter}{\hskip 1em\relax BIBLIOGRAPHY}{74}
